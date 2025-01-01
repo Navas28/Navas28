@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Navas</h1>
 <h3 align="center">I'm a MERN stack student passionate about web development. Currently focusing on building full-stack applications and expanding my knowledge in backend technologies.</h3>
-<img src="https://giphy.com/gifs/qgQUggAC3Pfv687qPC" align="right" alt="coding" width="400">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navas28&label=Profile%20views&color=0e75b6&style=flat" alt="navas28" /> </p>
