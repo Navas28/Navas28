@@ -30,9 +30,9 @@ I'm a MERN stack student passionate about web development. Currently focusing on
 - Single Page Applications
 
 ## 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](Your-LinkedIn-URL)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](Your-GitHub-URL)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/navas-m/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Navas28)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:navasmhd79@gmail.com)
 
 ---
 ⭐️ From [Navas](https://github.com/navas28)
